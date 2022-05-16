@@ -1,0 +1,68 @@
+BLASTP 2.13.0+
+
+
+Reference: Stephen F. Altschul, Thomas L. Madden, Alejandro A.
+Schaffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J.
+Lipman (1997), "Gapped BLAST and PSI-BLAST: a new generation of
+protein database search programs", Nucleic Acids Res. 25:3389-3402.
+
+
+Reference for composition-based statistics: Alejandro A. Schaffer,
+L. Aravind, Thomas L. Madden, Sergei Shavirin, John L. Spouge, Yuri
+I. Wolf, Eugene V. Koonin, and Stephen F. Altschul (2001),
+"Improving the accuracy of PSI-BLAST protein database searches with
+composition-based statistics and other refinements", Nucleic Acids
+Res. 29:2994-3005.
+
+
+
+Database: DBm_fqN
+           478,866 sequences; 181,673,030 total letters
+
+
+
+Query= NM_000021 Homo sapiens presenilin 1 (PSEN1), transcript variant 1,
+mRNA.
+
+Length=2006
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+P08888.1 RecName: Full=Nodulation protein 10; AltName: Full=Nodul...  37.4    1.4  
+
+
+>P08888.1 RecName: Full=Nodulation protein 10; AltName: Full=Nodulation 
+protein X; AltName: Full=Probable sugar acetylase [Rhizobium 
+leguminosarum bv. viciae]
+Length=367
+
+ Score = 37.4 bits (85),  Expect = 1.4, Method: Composition-based stats.
+ Identities = 17/41 (41%), Positives = 22/41 (54%), Gaps = 4/41 (10%)
+
+Query  591  WSYSTAGFARLYNHRLSRVSEGTSLWKLLLFFPVTIYFSWW  631
+            W +S    ARLY HR+S++ EG  LW L     +T    WW
+Sbjct  220  WIFSMGVLARLYWHRVSKIFEGKLLWWLATHLAIT----WW  256
+
+
+
+Lambda      K        H        a         alpha
+   0.350    0.153    0.555    0.792     4.96 
+
+Gapped
+Lambda      K        H        a         alpha    sigma
+   0.267   0.0410    0.140     1.90     42.6     43.6 
+
+Effective search space used: 220983754796
+
+
+  Database: DBm_fqN
+    Posted date:  May 15, 2022  11:39 PM
+  Number of letters in database: 181,673,030
+  Number of sequences in database:  478,866
+
+
+
+Matrix: BLOSUM62
+Gap Penalties: Existence: 11, Extension: 1
+Neighboring words threshold: 11
+Window for multiple hits: 40
