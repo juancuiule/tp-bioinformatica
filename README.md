@@ -1,6 +1,18 @@
 # TP Bioinformática
 
-Enunciado: [TP Bioinformatica-2022 - Parte 1.pdf](./TP%20Bioinformatica-2022%20-%20Parte%201.pdf)
+## Integrantes
+
+* Agustina Nahas (149.702-9)
+* Juan Ignacio Cuiule (158.938-6)
+
+---
+
+## Enunciado:
+
+[TP Bioinformatica-2022 - Parte 1.pdf](./TP%20Bioinformatica-2022%20-%20Parte%201.pdf)
+
+
+## Desarrollo
 
 Desarrollo de la primera parte del trabajo práctico de Bioinformática 1C2022.
 
