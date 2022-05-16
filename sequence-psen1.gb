@@ -1,0 +1,515 @@
+LOCUS       NM_000021               6018 bp    mRNA    linear   PRI 08-MAY-2022
+DEFINITION  Homo sapiens presenilin 1 (PSEN1), transcript variant 1, mRNA.
+ACCESSION   NM_000021
+VERSION     NM_000021.4
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 6018)
+  AUTHORS   Catania M, Marti A, Rossi G, Fioretti A, Boiocchi C, Ricci M,
+            Gasparini F, Beltrami D, Crepaldi V, Redaelli V, Giaccone G and Di
+            Fede G.
+  TITLE     The novel I213S mutation in PSEN1 gene is located in a hotspot
+            codon associated with familial early-onset Alzheimer's disease
+  JOURNAL   Neurobiol Aging 112, 191-196 (2022)
+   PUBMED   35231845
+  REMARK    GeneRIF: The novel I213S mutation in PSEN1 gene is located in a
+            hotspot codon associated with familial early-onset Alzheimer's
+            disease.
+REFERENCE   2  (bases 1 to 6018)
+  AUTHORS   Islam S, Sun Y, Gao Y, Nakamura T, Noorani AA, Li T, Wong PC,
+            Kimura N, Matsubara E, Kasuga K, Ikeuchi T, Tomita T, Zou K and
+            Michikawa M.
+  TITLE     Presenilin Is Essential for ApoE Secretion, a Novel Role of
+            Presenilin Involved in Alzheimer's Disease Pathogenesis
+  JOURNAL   J Neurosci 42 (8), 1574-1586 (2022)
+   PUBMED   34987110
+  REMARK    GeneRIF: Presenilin Is Essential for ApoE Secretion, a Novel Role
+            of Presenilin Involved in Alzheimer's Disease Pathogenesis.
+REFERENCE   3  (bases 1 to 6018)
+  AUTHORS   Kim M and Bezprozvanny I.
+  TITLE     Conformational Models of APP Processing by Gamma Secretase Based on
+            Analysis of Pathogenic Mutations
+  JOURNAL   Int J Mol Sci 22 (24), 13600 (2021)
+   PUBMED   34948396
+  REMARK    GeneRIF: Conformational Models of APP Processing by Gamma Secretase
+            Based on Analysis of Pathogenic Mutations.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 6018)
+  AUTHORS   Barabas K, Kobolak J, Godo S, Kovacs T, Ernszt D, Kecskes M, Varga
+            C, Janosi TZ, Fujiwara T, Kusumi A, Teglasi A, Dinnyes A and
+            Abraham IM.
+  TITLE     Live-Cell Imaging of Single Neurotrophin Receptor Molecules on
+            Human Neurons in Alzheimer's Disease
+  JOURNAL   Int J Mol Sci 22 (24), 13260 (2021)
+   PUBMED   34948057
+  REMARK    GeneRIF: Live-Cell Imaging of Single Neurotrophin Receptor
+            Molecules on Human Neurons in Alzheimer's Disease.
+            Publication Status: Online-Only
+REFERENCE   5  (bases 1 to 6018)
+  AUTHORS   Hershberger,R.E. and Jordan,E.
+  TITLE     Dilated Cardiomyopathy Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301486
+REFERENCE   6  (bases 1 to 6018)
+  AUTHORS   Bird,T.D.
+  TITLE     Early-Onset Familial Alzheimer Disease - RETIRED CHAPTER, FOR
+            HISTORICAL REFERENCE ONLY
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301414
+REFERENCE   7  (bases 1 to 6018)
+  AUTHORS   Bird,T.D.
+  TITLE     Alzheimer Disease Overview
+  JOURNAL   (in) Adam MP, Ardinger HH, Pagon RA, Wallace SE, Bean LJH, Gripp
+            KW, Mirzaa GM and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301340
+REFERENCE   8  (bases 1 to 6018)
+  AUTHORS   St George-Hyslop P, Haines J, Rogaev E, Mortilla M, Vaula G,
+            Pericak-Vance M, Foncin JF, Montesi M, Bruni A, Sorbi S, Rainero I,
+            Pinessi L, Pollen D, Polinsky R, Nee L, Kennedy J, Macciardi F,
+            Rogaeva E, Liang Y, Alexandrova N, Lukiw W, Schlumpf K, Tanzi R,
+            Tsuda T, Farrer L, Cantu JM, Duara R, Amaducci L, Bergamini L,
+            Gusella J, Roses A, Crapper McLachlan D et al.
+  TITLE     Genetic evidence for a novel familial Alzheimer's disease locus on
+            chromosome 14
+  JOURNAL   Nat Genet 2 (4), 330-334 (1992)
+   PUBMED   1303289
+REFERENCE   9  (bases 1 to 6018)
+  AUTHORS   Schellenberg,G.D., Bird,T.D., Wijsman,E.M., Orr,H.T., Anderson,L.,
+            Nemens,E., White,J.A., Bonnycastle,L., Weber,J.L., Alonso,M.E. et
+            al.
+  TITLE     Genetic linkage evidence for a familial Alzheimer's disease locus
+            on chromosome 14
+  JOURNAL   Science 258 (5082), 668-671 (1992)
+   PUBMED   1411576
+REFERENCE   10 (bases 1 to 6018)
+  AUTHORS   Schellenberg GD, Boehnke M, Wijsman EM, Moore DK, Martin GM and
+            Bird TD.
+  TITLE     Genetic association and linkage analysis of the apolipoprotein CII
+            locus and familial Alzheimer's disease
+  JOURNAL   Ann Neurol 31 (2), 223-227 (1992)
+   PUBMED   1349467
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DB203403.1, AK312531.1,
+            BC011729.2, DB075605.1, AK094186.1, DA670846.1 and AW069286.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Nov 20, 2018 this sequence version replaced NM_000021.3.
+            
+            Summary: Alzheimer's disease (AD) patients with an inherited form
+            of the disease carry mutations in the presenilin proteins (PSEN1;
+            PSEN2) or in the amyloid precursor protein (APP). These
+            disease-linked mutations result in increased production of the
+            longer form of amyloid-beta (main component of amyloid deposits
+            found in AD brains). Presenilins are postulated to regulate APP
+            processing through their effects on gamma-secretase, an enzyme that
+            cleaves APP. Also, it is thought that the presenilins are involved
+            in the cleavage of the Notch receptor, such that they either
+            directly regulate gamma-secretase activity or themselves are
+            protease enzymes. Several alternatively spliced transcript variants
+            encoding different isoforms have been identified for this gene, the
+            full-length nature of only some have been determined. [provided by
+            RefSeq, Aug 2008].
+            
+            Transcript Variant: This variant (1) encodes the longer isoform
+            (I-467).
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: SRR1660803.202632.1,
+                                           SRR1803613.16557.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA1965299, SAMEA1966682
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000324501.10/ ENSP00000326366.5
+            RefSeq Select criteria :: based on conservation, expression,
+                                      longest protein
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: full length.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-287               DB203403.1         73-359
+            288-1616            AK312531.1         344-1672
+            1617-2729           BC011729.2         1658-2770
+            2730-3204           DB075605.1         111-585
+            3205-3930           AK094186.1         466-1191
+            3931-4506           DA670846.1         8-583
+            4507-6013           AK094186.1         1768-3274
+            6014-6018           AW069286.1         18-22               c
+FEATURES             Location/Qualifiers
+     source          1..6018
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="14"
+                     /map="14q24.2"
+     gene            1..6018
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="presenilin 1"
+                     /db_xref="GeneID:5663"
+                     /db_xref="HGNC:HGNC:9508"
+                     /db_xref="MIM:104311"
+     exon            1..77
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            78..159
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     misc_feature    150..152
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="upstream in-frame stop codon"
+     exon            160..299
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             213..1616
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /EC_number="3.4.23.-"
+                     /note="isoform I-467 is encoded by transcript variant 1"
+                     /codon_start=1
+                     /product="presenilin-1 isoform I-467"
+                     /protein_id="NP_000012.1"
+                     /db_xref="CCDS:CCDS9812.1"
+                     /db_xref="GeneID:5663"
+                     /db_xref="HGNC:HGNC:9508"
+                     /db_xref="MIM:104311"
+                     /translation="MTELPAPLSYFQNAQMSEDNHLSNTVRSQNDNRERQEHNDRRSL
+                     GHPEPLSNGRPQGNSRQVVEQDEEEDEELTLKYGAKHVIMLFVPVTLCMVVVVATIKS
+                     VSFYTRKDGQLIYTPFTEDTETVGQRALHSILNAAIMISVIVVMTILLVVLYKYRCYK
+                     VIHAWLIISSLLLLFFFSFIYLGEVFKTYNVAVDYITVALLIWNFGVVGMISIHWKGP
+                     LRLQQAYLIMISALMALVFIKYLPEWTAWLILAVISVYDLVAVLCPKGPLRMLVETAQ
+                     ERNETLFPALIYSSTMVWLVNMAEGDPEAQRRVSKNSKYNAESTERESQDTVAENDDG
+                     GFSEEWEAQRDSHLGPHRSTPESRAAVQELSSSILAGEDPEERGVKLGLGDFIFYSVL
+                     VGKASATASGDWNTTIACFVAILIGLCLTLLLLAIFKKALPALPISITFGLVFYFATD
+                     YLVQPFMDQLAFHQFYI"
+     misc_feature    249..416
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    339..341
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:17081983,
+                     ECO:0007744|PubMed:21406692, ECO:0007744|PubMed:23186163;
+                     propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     phosphorylation site"
+     misc_feature    363..365
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0000250|UniProtKB:P97887; propagated from
+                     UniProtKB/Swiss-Prot (P49768.1); phosphorylation site"
+     misc_feature    459..521
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    609..671
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    711..779
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    795..860
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    873..935
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    957..1028
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    1074..1082
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: Important for cleavage of target proteins.
+                     /evidence=ECO:0000269|PubMed:30598546"
+     misc_feature    1083..1088
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Cleavage, alternate.
+                     /evidence=ECO:0000269|PubMed:9173929; propagated from
+                     UniProtKB/Swiss-Prot (P49768.1); cleavage site"
+     misc_feature    1086..1091
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Cleavage, alternate.
+                     /evidence=ECO:0000269|PubMed:9173929; propagated from
+                     UniProtKB/Swiss-Prot (P49768.1); cleavage site"
+     misc_feature    1104..1109
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Cleavage. /evidence=ECO:0000269|PubMed:9173929;
+                     propagated from UniProtKB/Swiss-Prot (P49768.1); cleavage
+                     site"
+     misc_feature    1125..1211
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: Disordered. /evidence=ECO:0000256|SAM:MobiDB-lite"
+     misc_feature    1140..1142
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Phosphoserine, by PKA.
+                     /evidence=ECO:0000269|PubMed:14576165; propagated from
+                     UniProtKB/Swiss-Prot (P49768.1); phosphorylation site"
+     misc_feature    1176..1562
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: Required for interaction with CTNNB1.
+                     /evidence=ECO:0000269|PubMed:9738936"
+     misc_feature    1245..1250
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Cleavage, by caspase.
+                     /evidence=ECO:0000269|PubMed:9485372; propagated from
+                     UniProtKB/Swiss-Prot (P49768.1); cleavage site"
+     misc_feature    1248..1250
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Phosphoserine, by PKC.
+                     /evidence=ECO:0000269|PubMed:14576165; propagated from
+                     UniProtKB/Swiss-Prot (P49768.1); phosphorylation site"
+     misc_feature    1311..1313
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="Phosphoserine.
+                     /evidence=ECO:0007744|PubMed:21406692,
+                     ECO:0007744|PubMed:23186163; propagated from
+                     UniProtKB/Swiss-Prot (P49768.1); phosphorylation site"
+     misc_feature    1326..1409
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: Required for interaction with CTNND2.
+                     /evidence=ECO:0000269|PubMed:10037471"
+     misc_feature    1341..1355
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: Important for cleavage of target proteins.
+                     /evidence=ECO:0000269|PubMed:30598546"
+     misc_feature    1353..1415
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    1434..1496
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    1506..1514
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: Important for cleavage of target proteins.
+                     /evidence=ECO:0000269|PubMed:30598546"
+     misc_feature    1509..1571
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     transmembrane region"
+     misc_feature    1509..1517
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: PAL. /evidence=ECO:0000305|PubMed:16305624"
+     misc_feature    1602..1613
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="propagated from UniProtKB/Swiss-Prot (P49768.1);
+                     Region: Interaction with MTCH1.
+                     /evidence=ECO:0000269|PubMed:10551805"
+     exon            300..550
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            551..692
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            693..760
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            761..981
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            982..1080
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1081..1167
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1168..1341
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1342..1460
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1461..6018
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      2709..2714
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="hexamer: AGTAAA"
+     polyA_site      2729
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="major polyA site"
+     regulatory      5998..6003
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="hexamer: AATAAA"
+     polyA_site      6018
+                     /gene="PSEN1"
+                     /gene_synonym="ACNINV3; AD3; FAD; PS-1; PS1; S182"
+                     /note="major polyA site"
+ORIGIN      
+        1 ggaaacaaaa cagcggctgg tctggaagga acctgagcta cgagccgcgg cggcagcggg
+       61 gcggcgggga agcgtatacc taatctggga gcctgcaagt gacaacagcc tttgcggtcc
+      121 ttagacagct tggcctggag gagaacacat gaaagaaaga acctcaagag gctttgtttt
+      181 ctgtgaaaca gtatttctat acagttgctc caatgacaga gttacctgca ccgttgtcct
+      241 acttccagaa tgcacagatg tctgaggaca accacctgag caatactgta cgtagccaga
+      301 atgacaatag agaacggcag gagcacaacg acagacggag ccttggccac cctgagccat
+      361 tatctaatgg acgaccccag ggtaactccc ggcaggtggt ggagcaagat gaggaagaag
+      421 atgaggagct gacattgaaa tatggcgcca agcatgtgat catgctcttt gtccctgtga
+      481 ctctctgcat ggtggtggtc gtggctacca ttaagtcagt cagcttttat acccggaagg
+      541 atgggcagct aatctatacc ccattcacag aagataccga gactgtgggc cagagagccc
+      601 tgcactcaat tctgaatgct gccatcatga tcagtgtcat tgttgtcatg actatcctcc
+      661 tggtggttct gtataaatac aggtgctata aggtcatcca tgcctggctt attatatcat
+      721 ctctattgtt gctgttcttt ttttcattca tttacttggg ggaagtgttt aaaacctata
+      781 acgttgctgt ggactacatt actgttgcac tcctgatctg gaattttggt gtggtgggaa
+      841 tgatttccat tcactggaaa ggtccacttc gactccagca ggcatatctc attatgatta
+      901 gtgccctcat ggccctggtg tttatcaagt acctccctga atggactgcg tggctcatct
+      961 tggctgtgat ttcagtatat gatttagtgg ctgttttgtg tccgaaaggt ccacttcgta
+     1021 tgctggttga aacagctcag gagagaaatg aaacgctttt tccagctctc atttactcct
+     1081 caacaatggt gtggttggtg aatatggcag aaggagaccc ggaagctcaa aggagagtat
+     1141 ccaaaaattc caagtataat gcagaaagca cagaaaggga gtcacaagac actgttgcag
+     1201 agaatgatga tggcgggttc agtgaggaat gggaagccca gagggacagt catctagggc
+     1261 ctcatcgctc tacacctgag tcacgagctg ctgtccagga actttccagc agtatcctcg
+     1321 ctggtgaaga cccagaggaa aggggagtaa aacttggatt gggagatttc attttctaca
+     1381 gtgttctggt tggtaaagcc tcagcaacag ccagtggaga ctggaacaca accatagcct
+     1441 gtttcgtagc catattaatt ggtttgtgcc ttacattatt actccttgcc attttcaaga
+     1501 aagcattgcc agctcttcca atctccatca cctttgggct tgttttctac tttgccacag
+     1561 attatcttgt acagcctttt atggaccaat tagcattcca tcaattttat atctagcata
+     1621 tttgcggtta gaatcccatg gatgtttctt ctttgactat aacaaaatct ggggaggaca
+     1681 aaggtgattt tcctgtgtcc acatctaaca aagtcaagat tcccggctgg acttttgcag
+     1741 cttccttcca agtcttcctg accaccttgc actattggac tttggaagga ggtgcctata
+     1801 gaaaacgatt ttgaacatac ttcatcgcag tggactgtgt ccctcggtgc agaaactacc
+     1861 agatttgagg gacgaggtca aggagatatg ataggcccgg aagttgctgt gccccatcag
+     1921 cagcttgacg cgtggtcaca ggacgatttc actgacactg cgaactctca ggactaccgt
+     1981 taccaagagg ttaggtgaag tggtttaaac caaacggaac tcttcatctt aaactacacg
+     2041 ttgaaaatca acccaataat tctgtattaa ctgaattctg aacttttcag gaggtactgt
+     2101 gaggaagagc aggcaccagc agcagaatgg ggaatggaga ggtgggcagg ggttccagct
+     2161 tccctttgat tttttgctgc agactcatcc tttttaaatg agacttgttt tcccctctct
+     2221 ttgagtcaag tcaaatatgt agattgcctt tggcaattct tcttctcaag cactgacact
+     2281 cattaccgtc tgtgattgcc atttcttccc aaggccagtc tgaacctgag gttgctttat
+     2341 cctaaaagtt ttaacctcag gttccaaatt cagtaaattt tggaaacagt acagctattt
+     2401 ctcatcaatt ctctatcatg ttgaagtcaa atttggattt tccaccaaat tctgaatttg
+     2461 tagacatact tgtacgctca cttgccccag atgcctcctc tgtcctcatt cttctctccc
+     2521 acacaagcag tctttttcta cagccagtaa ggcagctctg tcgtggtagc agatggtccc
+     2581 attattctag ggtcttactc tttgtatgat gaaaagaatg tgttatgaat cggtgctgtc
+     2641 agccctgctg tcagaccttc ttccacagca aatgagatgt atgcccaaag acggtagaat
+     2701 taaagaagag taaaatggct gttgaagcac tttctgtcct ggtattttgt ttttgctttt
+     2761 gccacacagt agctcagaat ttgaacaaat agccaaaagc tggtggttga tgaattatga
+     2821 actagttgta tcaacacaaa gcaagagttg gggaaagcca tatttaactt ggtgagctgt
+     2881 gggagaacct ggtggcagaa ggagaaccaa ctgccaaggg gaaagagaag gggcctccag
+     2941 cagcgaaggg gatacagtga gctaatgatg tcaaggagga gtttcaggtt attctcgtca
+     3001 gctccacaaa tgggtgcttt gtggtctctg cccgcgttac ctttcctctc aatgtacctt
+     3061 tgtgtgaact gggcagtgga ggtgcctgct gcagttacca tggagttcag gctctgggca
+     3121 gctcagtcag gcaaaacaca caaacagcca tcagcctgtg tgggctcagg gcacctctgg
+     3181 acaaaggctt gtggggcata accttcttta ccacagagag cccttagcta tgctgatcag
+     3241 accgtaagcg tttatgagaa acttagtttc ctcctgtggc tgaggagggg ccagcttttt
+     3301 cttcttttgc ctgctgtttt ctctcccaat ctatgatatg atatgacctg gtttggggct
+     3361 gtctttggtg tttagaatat ttgttttctg tcccaggata tttcttataa gaacctaact
+     3421 tcaagagtag tgtgcgagta ctgatctgaa tttaaattaa aattggctta tattaggcag
+     3481 tcacagacag gaaaaataag agctatgcaa agaaaggggg atttaaagta gtaggttcta
+     3541 tcatctcaat tcattttttt ccatgaaatc ccttcttcca agattcattc cctctctcag
+     3601 acatgtgcta gcatgggtat tatcattgag aaagcacagc tacagcaaag ccacctgaat
+     3661 agcaatttgt gattggaagc attcttgagg gatccctaat ctagagtaat ttatttgtgt
+     3721 aaggatccca aatgtgttgc acctttcatg atacatttct tctctgaaga gggtacgtgg
+     3781 ggtgtgtgta tttaaatcca tcctatgtat tactgattgt cctgtgtaga aagatggcaa
+     3841 ttattctgtc tctttctcca agtttgagcc acatctcagc cacattgtta gacagtgtac
+     3901 agagaaccta tctttccttt tttttttttt aaaggacagg attttgctgt gttgcccagg
+     3961 ctagacttga actcctgggc tcaagtaatc cacctcagcc tgagtagctg agactacagc
+     4021 ccatcttatt tctttaaatc attcatctca ggcagagaac ttttccctca aacattcttt
+     4081 ttagaattag ttcagtcatt cctaaaacat ccaaatgcta gtcttccacc atgaaaaata
+     4141 gattgtcact ggaaagaaca gtagcaattt ccataaggat gtgccttcac tcacacggga
+     4201 caggcggtgg ttatagagtc gggcaaaacc agcagtagag tatgaccagc caagccaatc
+     4261 tgcttaataa aaagatggaa gacagtaagg aaggaaagta gccactaaga gtctgagtct
+     4321 gactgggcta cagaataaag ggtatttatg gacagaatgt cattacatgc ctatgggaat
+     4381 accaatcata tttggaagat ttgcagattt tttttcagag aggaaagact caccttcctg
+     4441 tttttggttc tcagtaggtt cgtgtgtgtt cctagaatca cagctctgac tccaaatgac
+     4501 tcaatttctc aattagaaaa agtagaagct ttctaagcaa cttggaagaa aacagtcata
+     4561 agtaagcaat ttgttgattt tactacagaa gcaacaactg aagaggcagt gtttttactt
+     4621 tcagactccg ggattcccat tctgtagtct ctctgctttt aaaaaccctc cttttgcaat
+     4681 agatgcccaa acagatgatg tttattactt gttatttacg tggcctcaga cagtgtatgt
+     4741 attctcgata taacttgtag agtgtgaaat ataagtttaa ctaccaaata aggtctccca
+     4801 gggttagatg actgcgggaa gcctttgatc ccaaccccca aggctttgta tatttgatca
+     4861 tttgtgatct aaccctggaa gaaaaagagc tcagaaacca ctatgaaaaa atttgttcag
+     4921 tgttttctgt gttcccgtag gttctggagt ctgaggatgc aaagatgaat aagataaatt
+     4981 ctcagaatgt agttataatc tcttgttttc tggtatatgc catctttctt taacttctct
+     5041 aaaatattgg gtatttgtca aataaccact tttaacagtt accattactg agggcttata
+     5101 cattggtgtt ataaaagtga cttgattcag aaatcaatcc attcagtaaa gtactccttc
+     5161 tctaaatttg ctgttatgtc tataaggaac agtttgacct gcccttctcc tcacctcctc
+     5221 acctgccttc caacattgaa tttggaagga gacgtgaaaa ttggacattt ggttttgccc
+     5281 ttgggctgga aactatcata taatcataag tttgagccta gaagtgatcc ttgtgatctt
+     5341 ctcacctctt taaattccca caacacaaga gattaaaaac agaggtttca gctcttcata
+     5401 gtgcgttgtg aaatggctgg ccagagtgta ccaacaaagc tgtcatcggg ctcacagctc
+     5461 agagacatct gcatgtgatc atctgcatag tcctctcctc taacgggaaa cacctcagat
+     5521 ttgcatataa aaaagcaccc tggtgctgaa atgaacccct ttcttgaaca tcaaagctgt
+     5581 ctcccacagc cttgggcagc agggtgcctc ttagtggatg tgctgggtcc accctgagcc
+     5641 ctgacatgtg gtggcagcat tgccagttgg tctgtgtgtc tgtgtagcag ggacgatttc
+     5701 ccagaaagca attttccttt tgaaatacgt aattgttgag actaggcagt ttcaaagtca
+     5761 gctgcatata gtagcaagta caggactgtc ttgtttttgg tgtccttgga ggtgctgggg
+     5821 tgagggtttc agtgggatca tttactctca catgttgtct gccttctgct tctgtggaca
+     5881 ctgctttgta cttaattcag acagactgtg aatacacctt ttttataaat acctttcaaa
+     5941 ttcttggtaa gatataattt tgatagctga ttgcagattt tctgtatttg tcagattaat
+     6001 aaagactgca tgaatcca
+//
+
