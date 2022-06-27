@@ -1,5 +1,8 @@
 #! /usr/bin/sh
 
+cpan -f BioPerl
+cpan -f Bio::DB::ESoap
+
 cpan -f Bio::Perl
 cpan -f Bio::SeqIO
 cpan -f Bio::Seql

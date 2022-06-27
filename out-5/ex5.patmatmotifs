@@ -1,0 +1,1353 @@
+########################################
+# Program: patmatmotifs
+# Rundate: Sun 26 Jun 2022 15:22:43
+# Commandline: patmatmotifs
+#    -full
+#    -outfile ./out-5/ex5.patmatmotifs
+#    -sequence /tmp/ip7FczJPw7/pf7WtPxic8
+#    -auto
+# Report_format: dbmotif
+# Report_file: ./out-5/ex5.patmatmotifs
+########################################
+
+#=======================================
+#
+# Sequence: NM_000021     from: 1   to: 6018
+# HitCount: 43
+#
+# Full: Yes
+# Prune: Yes
+# Data_file: /usr/local/emboss/share/EMBOSS/data/PROSITE/prosite.lines
+#
+#=======================================
+
+Length = 12
+Start = position 4450 of sequence
+End = position 4461 of sequence
+
+Motif = EGF_1
+
+TGGTTCTCAGTAGGTTCGTGTG
+     |          |
+  4450          4461
+
+Length = 12
+Start = position 4190 of sequence
+End = position 4201 of sequence
+
+Motif = EGF_1
+
+CTTCACTCACACGGGACAGGCG
+     |          |
+  4190          4201
+
+Length = 12
+Start = position 3046 of sequence
+End = position 3057 of sequence
+
+Motif = EGF_1
+
+CTTTCCTCTCAATGTACCTTTG
+     |          |
+  3046          3057
+
+Length = 12
+Start = position 2728 of sequence
+End = position 2739 of sequence
+
+Motif = EGF_1
+
+TGAAGCACTTTCTGTCCTGGTA
+     |          |
+  2728          2739
+
+Length = 12
+Start = position 935 of sequence
+End = position 946 of sequence
+
+Motif = EGF_1
+
+TACCTCCCTGAATGGACTGCGT
+     |          |
+   935          946
+
+Length = 14
+Start = position 6001 of sequence
+End = position 6014 of sequence
+
+Motif = THIOLASE_3
+
+TTAATAAAGACTGCATGAATCCA
+     |            |
+  6001            6014
+
+Length = 14
+Start = position 4807 of sequence
+End = position 4820 of sequence
+
+Motif = THIOLASE_3
+
+GGTTAGATGACTGCGGGAAGCCTT
+     |            |
+  4807            4820
+
+Length = 14
+Start = position 4779 of sequence
+End = position 4792 of sequence
+
+Motif = THIOLASE_3
+
+AGTTTAACTACCAAATAAGGTCTC
+     |            |
+  4779            4792
+
+Length = 14
+Start = position 4593 of sequence
+End = position 4606 of sequence
+
+Motif = THIOLASE_3
+
+GAAGCAACAACTGAAGAGGCAGTG
+     |            |
+  4593            4606
+
+Length = 14
+Start = position 4278 of sequence
+End = position 4291 of sequence
+
+Motif = THIOLASE_3
+
+AGATGGAAGACAGTAAGGAAGGAA
+     |            |
+  4278            4291
+
+Length = 14
+Start = position 310 of sequence
+End = position 323 of sequence
+
+Motif = THIOLASE_3
+
+CAATAGAGAACGGCAGGAGCACAA
+     |            |
+   310            323
+
+Length = 14
+Start = position 300 of sequence
+End = position 313 of sequence
+
+Motif = THIOLASE_3
+
+GCCAGAATGACAATAGAGAACGGC
+     |            |
+   300            313
+
+Length = 9
+Start = position 4533 of sequence
+End = position 4541 of sequence
+
+Motif = 2FE2S_FER_1
+
+GCTTTCTAAGCAACTTGGA
+     |       |
+  4533       4541
+
+Length = 9
+Start = position 4323 of sequence
+End = position 4331 of sequence
+
+Motif = 2FE2S_FER_1
+
+TCTGACTGGGCTACAGAAT
+     |       |
+  4323       4331
+
+Length = 9
+Start = position 4118 of sequence
+End = position 4126 of sequence
+
+Motif = 2FE2S_FER_1
+
+AAATGCTAGTCTTCCACCA
+     |       |
+  4118       4126
+
+Length = 9
+Start = position 3114 of sequence
+End = position 3122 of sequence
+
+Motif = 2FE2S_FER_1
+
+AGGCTCTGGGCAGCTCAGT
+     |       |
+  3114       3122
+
+Length = 9
+Start = position 1969 of sequence
+End = position 1977 of sequence
+
+Motif = 2FE2S_FER_1
+
+ACTCTCAGGACTACCGTTA
+     |       |
+  1969       1977
+
+Length = 9
+Start = position 1749 of sequence
+End = position 1757 of sequence
+
+Motif = 2FE2S_FER_1
+
+CCTTCCAAGTCTTCCTGAC
+     |       |
+  1749       1757
+
+Length = 9
+Start = position 500 of sequence
+End = position 508 of sequence
+
+Motif = 2FE2S_FER_1
+
+GTGGTCGTGGCTACCATTA
+     |       |
+   500       508
+
+Length = 9
+Start = position 57 of sequence
+End = position 65 of sequence
+
+Motif = 2FE2S_FER_1
+
+GGCAGCGGGGCGGCGGGGA
+     |       |
+    57       65
+
+Length = 9
+Start = position 33 of sequence
+End = position 41 of sequence
+
+Motif = 2FE2S_FER_1
+
+GGAACCTGAGCTACGAGCC
+     |       |
+    33       41
+
+Length = 9
+Start = position 6 of sequence
+End = position 14 of sequence
+
+Motif = 2FE2S_FER_1
+
+GGAAACAAAACAGCGGCTG
+     |       |
+     6       14
+
+Length = 12
+Start = position 326 of sequence
+End = position 337 of sequence
+
+Motif = 4FE4S_FER_1
+
+GAGCACAACGACAGACGGAGCC
+     |          |
+   326          337
+
+Length = 7
+Start = position 5818 of sequence
+End = position 5824 of sequence
+
+Motif = TUBULIN
+
+TGCTGGGGTGAGGGTTT
+     |     |
+  5818     5824
+
+Length = 28
+Start = position 5581 of sequence
+End = position 5608 of sequence
+
+Motif = DEFENSIN
+
+GCTGTCTCCCACAGCCTTGGGCAGCAGGGTGCCTCTTA
+     |                          |
+  5581                          5608
+
+Length = 12
+Start = position 4057 of sequence
+End = position 4068 of sequence
+
+Motif = HYDROPHOBIN
+
+GCAGAGAACTTTTCCCTCAAAC
+     |          |
+  4057          4068
+
+Length = 33
+Start = position 5632 of sequence
+End = position 5664 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GTCCACCCTGAGCCCTGACATGTGGTGGCAGCATTGCCAGTTG
+     |                               |
+  5632                               5664
+
+Length = 35
+Start = position 4798 of sequence
+End = position 4832 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+GTCTCCCAGGGTTAGATGACTGCGGGAAGCCTTTGATCCCAACCC
+     |                                 |
+  4798                                 4832
+
+Length = 33
+Start = position 2762 of sequence
+End = position 2794 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TTTTGCCACACAGTAGCTCAGAATTTGAACAAATAGCCAAAAG
+     |                               |
+  2762                               2794
+
+Length = 34
+Start = position 2487 of sequence
+End = position 2520 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TTGCCCCAGATGCCTCCTCTGTCCTCATTCTTCTCTCCCACACA
+     |                                |
+  2487                                2520
+
+Length = 35
+Start = position 2486 of sequence
+End = position 2520 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+CTTGCCCCAGATGCCTCCTCTGTCCTCATTCTTCTCTCCCACACA
+     |                                 |
+  2486                                 2520
+
+Length = 30
+Start = position 533 of sequence
+End = position 562 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TATACCCGGAAGGATGGGCAGCTAATCTATACCCCATTCA
+     |                            |
+   533                            562
+
+Length = 31
+Start = position 532 of sequence
+End = position 562 of sequence
+
+Motif = ANAPHYLATOXIN_1
+
+TTATACCCGGAAGGATGGGCAGCTAATCTATACCCCATTCA
+     |                             |
+   532                             562
+
+Length = 50
+Start = position 4622 of sequence
+End = position 4671 of sequence
+
+Motif = VWFC_1
+
+ACTTTCAGACTCCGGGATTCCCATTCTGTAGTCTCTCTGCTTTTAAAAACCCTCCTTTTG
+     |                                                |
+  4622                                                4671
+
+Length = 45
+Start = position 3108 of sequence
+End = position 3152 of sequence
+
+Motif = VWFC_1
+
+GAGTTCAGGCTCTGGGCAGCTCAGTCAGGCAAAACACACAAACAGCCATCAGCCT
+     |                                           |
+  3108                                           3152
+
+Length = 50
+Start = position 2475 of sequence
+End = position 2524 of sequence
+
+Motif = VWFC_1
+
+TTGTACGCTCACTTGCCCCAGATGCCTCCTCTGTCCTCATTCTTCTCTCCCACACAAGCA
+     |                                                |
+  2475                                                2524
+
+Length = 48
+Start = position 2273 of sequence
+End = position 2320 of sequence
+
+Motif = VWFC_1
+
+AAGCACTGACACTCATTACCGTCTGTGATTGCCATTTCTTCCCAAGGCCAGTCTGAAC
+     |                                              |
+  2273                                              2320
+
+Length = 54
+Start = position 2267 of sequence
+End = position 2320 of sequence
+
+Motif = VWFC_1
+
+CTTCTCAAGCACTGACACTCATTACCGTCTGTGATTGCCATTTCTTCCCAAGGCCAGTCTGAAC
+     |                                                    |
+  2267                                                    2320
+
+Length = 44
+Start = position 2262 of sequence
+End = position 2305 of sequence
+
+Motif = VWFC_1
+
+TTCTTCTTCTCAAGCACTGACACTCATTACCGTCTGTGATTGCCATTTCTTCCC
+     |                                          |
+  2262                                          2305
+
+Length = 41
+Start = position 1270 of sequence
+End = position 1310 of sequence
+
+Motif = VWFC_1
+
+TCGCTCTACACCTGAGTCACGAGCTGCTGTCCAGGAACTTTCCAGCAGTAT
+     |                                       |
+  1270                                       1310
+
+Length = 51
+Start = position 226 of sequence
+End = position 276 of sequence
+
+Motif = VWFC_1
+
+GTTACCTGCACCGTTGTCCTACTTCCAGAATGCACAGATGTCTGAGGACAACCACCTGAGC
+     |                                                 |
+   226                                                 276
+
+Length = 52
+Start = position 225 of sequence
+End = position 276 of sequence
+
+Motif = VWFC_1
+
+AGTTACCTGCACCGTTGTCCTACTTCCAGAATGCACAGATGTCTGAGGACAACCACCTGAGC
+     |                                                  |
+   225                                                  276
+
+Length = 30
+Start = position 262 of sequence
+End = position 291 of sequence
+
+Motif = J_ACTX
+
+GATGTCTGAGGACAACCACCTGAGCAATACTGTACGTAGC
+     |                            |
+   262                            291
+
+
+#---------------------------------------
+#
+# Motif: EGF_1
+# Count: 5
+# 
+# ******************************************
+# * EGF-like domain signatures and profile *
+# ******************************************
+# 
+# A sequence of  about thirty  to forty amino-acid  residues  long found in  the
+# sequence of  epidermal  growth  factor  (EGF)  has been  shown  [1 to 6] to be
+# present, in  a more or less conserved form, in a large number of other, mostly
+# animal  proteins.  EGF  is  a  polypeptide  of about 50 amino acids with three
+# internal  disulfide  bridges.  It  first  binds with high affinity to specific
+# cell-surface receptors and then induces their dimerization, which is essential
+# for  activating  the  tyrosine  kinase  in  the  receptor  cytoplasmic domain,
+# initiating  a  signal  transduction  that  results  in  DNA synthesis and cell
+# proliferation.
+# 
+# A  common  feature  of  all  EGF-like  domains  is  that they are found in the
+# extracellular  domain  of  membrane-bound  proteins or in proteins known to be
+# secreted (exception: prostaglandin G/H synthase). The EGF-like domain includes
+# six cysteine residues which have been shown to be involved in disulfide bonds.
+# The  structure  of several EGF-like domains has been solved. The fold consists
+# of   two-stranded  beta-sheet  followed  by  a  loop  to  a  C-terminal  short
+# two-stranded sheet   (see   <PDB:1EGF>).   Subdomains  between  the  conserved
+# cysteines strongly  vary  in  length  as  shown  in  the  following  schematic
+# representation of the EGF-like domain:
+# 
+#                  +-------------------+        +-------------------------+
+#                  |                   |        |                         |
+#   x(4)-C-x(0,48)-C-x(3,12)-C-x(1,70)-C-x(1,6)-C-x(2)-G-a-x(0,21)-G-x(2)-C-x
+#        |                   |         ************************************
+#        +-------------------+
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# 'G': often conserved glycine
+# 'a': often conserved aromatic amino acid
+# '*': position of both patterns.
+# 'x': any residue
+# 
+# Some  proteins  known  to contain one or more copies of an EGF-like domain are
+# listed below.
+# 
+#  - Adipocyte differentiation inhibitor (gene PREF-1) from mouse (6 copies).
+#  - Agrin, a basal lamina protein  that causes the aggregation of acetylcholine
+#    receptors on cultured muscle fibers (4 copies).
+#  - Amphiregulin, a growth factor (1 copy).
+#  - Betacellulin, a growth factor (1 copy).
+#  - Blastula  proteins  BP10  and  Span from sea urchin which are thought to be
+#    involved in pattern formation (1 copy).
+#  - BM86, a glycoprotein antigen of cattle tick (7 copies).
+#  - Bone morphogenic protein 1 (BMP-1), a  protein which induces cartilage  and
+#    bone formation  and  which  expresses  metalloendopeptidase  activity  (1-2
+#    copies). Homologous proteins are found in sea urchin - suBMP (1 copy) - and
+#    in Drosophila - the dorsal-ventral patterning protein tolloid (2 copies).
+#  - Caenorhabditis elegans developmental proteins lin-12 (13 copies)  and glp-1
+#    (10 copies).
+#  - Caenorhabditis elegans apx-1 protein, a patterning protein (4.5 copies).
+#  - Calcium-dependent serine proteinase (CASP) which degrades the extracellular
+#    matrix proteins type I and IV collagen and fibronectin (1 copy).
+#  - Cartilage matrix protein CMP (1 copy).
+#  - Cartilage oligomeric matrix protein COMP (4 copies).
+#  - Cell surface antigen 114/A10 (3 copies).
+#  - Cell surface glycoprotein complex transmembrane subunit ASGP-2  from rat (2
+#    copies).
+#  - Coagulation associated proteins C, Z (2 copies) and S (4 copies).
+#  - Coagulation factors VII, IX, X and XII (2 copies).
+#  - Complement C1r components (1 copy).
+#  - Complement C1s components (1 copy).
+#  - Complement-activating component of Ra-reactive factor (RARF) (1 copy).
+#  - Complement components C6, C7, C8 alpha and beta chains, and C9 (1 copy).
+#  - Crumbs, an epithelial development protein from Drosophila (29 copies).
+#  - Epidermal growth factor precursor (7-9 copies).
+#  - Exogastrula-inducing peptides A, C, D and X from sea urchin (1 copy).
+#  - Fat protein, a Drosophila cadherin-related tumor suppressor (5 copies).
+#  - Fetal  antigen  1, a probable neuroendocrine differentiation protein, which
+#    is derived from the delta-like protein (DLK) (6 copies).
+#  - Fibrillin 1 (47 copies) and fibrillin 2 (14 copies).
+#  - Fibropellins  IA  (21 copies), IB (13 copies), IC (8 copies), II (4 copies)
+#    and III   (8   copies)  from  the  apical  lamina  -  a  component  of  the
+#    extracellular matrix - of sea urchin.
+#  - Fibulin-1 and -2, two extracellular matrix proteins (9-11 copies).
+#  - Giant-lens  protein (protein Argos), which regulates cell determination and
+#    axon guidance in the Drosophila eye (1 copy).
+#  - Growth factor-related proteins from various poxviruses (1 copy).
+#  - Gurken protein, a Drosophila developmental protein (1 copy).
+#  - Heparin-binding EGF-like growth factor (HB-EGF), transforming growth factor
+#    alpha (TGF-alpha), growth factors Lin-3 and Spitz (1 copy);  the precursors
+#    are membrane proteins, the mature form is located extracellular.
+#  - Hepatocyte growth factor (HGF) activator (EC 3.4.21.-) (2 copies).
+#  - LDL  and  VLDL receptors, which bind and transport low-density lipoproteins
+#    and very low-density lipoproteins (3 copies).
+#  - LDL  receptor-related  protein  (LRP), which  may  act  as  a  receptor for
+#    endocytosis of extracellular ligands (22 copies).
+#  - Leucocyte  antigen  CD97  (3  copies),  cell  surface  glycoprotein EMR1 (6
+#    copies) and cell surface glycoprotein F4/80 (7 copies).
+#  - Limulus clotting factor C, which is involved in hemostasis and host defense
+#    mechanisms in japanese horseshoe crab (1 copy).
+#  - Meprin A alpha subunit, a mammalian membrane-bound endopeptidase (1 copy).
+#  - Milk fat globule-EGF factor 8 (MFG-E8) from mouse (2 copies).
+#  - Neuregulin GGF-I and GGF-II, two human glial growth factors (1 copy).
+#  - Neurexins from mammals (3 copies).
+#  - Neurogenic  proteins  Notch, Xotch and the human homolog Tan-1 (36 copies),
+#    Delta (9  copies)  and  the  similar  differentiation  proteins  Lag-2 from
+#    Caenorhabditis elegans (2  copies), Serrate (14 copies) and Slit (7 copies)
+#    from Drosophila.
+#  - Nidogen  (also called entactin), a basement membrane protein from chordates
+#    (2-6 copies).
+#  - Ookinete surface proteins (24 Kd, 25 Kd, 28 Kd) from Plasmodium (4 copies).
+#  - Pancreatic secretory granule membrane major glycoprotein GP2 (1 copy).
+#  - Perforin, which lyses non-specifically a variety of target cells (1 copy).
+#  - Proteoglycans  aggrecan (1 copy), versican (2 copies), perlecan (at least 2
+#    copies), brevican (1 copy) and chondroitin sulfate proteoglycan (gene PG-M)
+#    (2 copies).
+#  - Prostaglandin G/H synthase 1 and 2  (EC 1.14.99.1) (1 copy), which is found
+#    in the endoplasmatic reticulum.
+#  - Reelin, an extracellular matrix protein  that  plays a role in  layering of
+#    neurons in the cerebral cortex and cerebellum of mammals (8 copies).
+#  - S1-5,  a  human  extracellular  protein whose ultimate activity is probably
+#    modulated by the environment (5 copies).
+#  - Schwannoma-derived growth factor (SDGF), an autocrine growth factor as well
+#    as a mitogen for different target cells (1 copy).
+#  - Selectins. Cell  adhesion  proteins such  as  ELAM-1 (E-selectin),  GMP-140
+#    (P-selectin), or the lymph-node homing receptor (L-selectin) (1 copy).
+#  - Serine/threonine-protein  kinase  homolog  (gene  Pro25)  from  Arabidopsis
+#    thaliana, which  may   be   involved   in   assembly   or   regulation   of
+#    light-harvesting chlorophyll A/B protein (2 copies).
+#  - Sperm-egg fusion proteins PH-30 alpha and beta from guinea pig (1 copy).
+#  - Stromal cell derived protein-1 (SCP-1) from mouse (6 copies).
+#  - TDGF-1, human teratocarcinoma-derived growth factor 1 (1 copy).
+#  - Tenascin  (or  neuronectin),  an  extracellular matrix protein from mammals
+#    (14.5 copies), chicken (TEN-A) (13.5 copies) and the related proteins human
+#    tenascin-X (18  copies)  and  tenascin-like  proteins  TEN-A and TEN-M from
+#    Drosophila (8 copies).
+#  - Thrombomodulin   (fetomodulin),  which  together  with  thrombin  activates
+#    protein C (6 copies).
+#  - Thrombospondin  1, 2 (3 copies), 3 and 4 (4 copies), adhesive glycoproteins
+#    that mediate cell-to-cell and cell-to-matrix interactions.
+#  - Thyroid peroxidase 1 and 2 (EC 2.7.10.1) from human (1 copy).
+#  - Transforming  growth  factor  beta-1  binding protein (TGF-B1-BP) (16 or 18
+#    copies).
+#  - Tyrosine-protein kinase receptors Tek and Tie (EC 2.7.1.112) (3 copies).
+#  - Urokinase-type  plasminogen  activator  (EC  3.4.21.73)  (UPA)  and  tissue
+#    plasminogen activator (EC 3.4.21.68) (TPA) (1 copy).
+#  - Uromodulin (Tamm-horsfall urinary glycoprotein) (THP) (3 copies).
+#  - Vitamin  K-dependent  anticoagulants  protein C (2 copies) and protein S (4
+#    copies) and  the  similar  protein Z, a single-chain plasma glycoprotein of
+#    unknown function (2 copies).
+#  - 63 Kd sperm flagellar membrane protein from sea urchin (3 copies).
+#  - 93 Kd protein (gene nel) from chicken (5 copies).
+#  - Hypothetical  337.6  Kd  protein  T20G5.3  from  Caenorhabditis elegans (44
+#    copies).
+# 
+# The region between the 5th and 6th cysteine contains two conserved glycines of
+# which at  least  one  is  present  in  most  EGF-like  domains. We created two
+# patterns for  this  domain,  each  including one of these C-terminal conserved
+# glycine residues. The profile we developed covers the whole domain.
+# 
+# -Consensus pattern: C-x-C-x(2)-{V}-x(2)-G-{C}-x-C
+#                     [The 3 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+#  but not  those  that  have very long or very short regions between the last 3
+#  conserved cysteines of their EGF-like domain(s).
+# -Other sequence(s)  detected  in  Swiss-Prot:  87 proteins, of which 27 can be
+#  considered as possible candidates.
+# 
+# -Consensus pattern: C-x-C-x(2)-[GP]-[FYW]-x(4,8)-C
+#                     [The 3 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+#  but not  those  that  have very long or very short regions between the last 3
+#  conserved cysteines of their EGF-like domain(s).
+# -Other sequence(s)  detected  in  Swiss-Prot:  83 proteins, of which 49 can be
+#  considered as possible candidates.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note: The  beta chain of the integrin family of proteins contains 2 cysteine-
+#  rich repeats  which were said to be dissimilar with the EGF pattern [7].
+# -Note: Laminin  EGF-like repeats (see <PDOC00961>) are longer than the average
+#  EGF module  and  contain  a further disulfide bond C-terminal of the EGF-like
+#  region. Perlecan  and  agrin  contain  both EGF-like domains and laminin-type
+#  EGF-like domains.
+# -Note: The  pattern do not detect all of the repeats of proteins with multiple
+#  EGF-like repeats.
+# -Note: See <PDOC00913> for an entry describing specifically the subset of EGF-
+#  like domains that bind calcium.
+# 
+# -Last update: April 2006 / Pattern revised.
+# 
+# [ 1] Davis C.G.
+#      "The many faces of epidermal growth factor repeats."
+#      New Biol. 2:410-419(1990).
+#      PubMed=2288911
+# [ 2] Blomquist M.C., Hunt L.T., Barker W.C.
+#      "Vaccinia virus 19-kilodalton protein: relationship to several
+#      mammalian proteins, including two growth factors."
+#      Proc. Natl. Acad. Sci. U.S.A. 81:7363-7367(1984).
+#      PubMed=6334307
+# [ 3] Barker W.C., Johnson G.C., Hunt L.T., George D.G.
+#      Protein Nucl. Acid Enz. 29:54-68(1986).
+# [ 4] Doolittle R.F., Feng D.F., Johnson M.S.
+#      "Computer-based characterization of epidermal growth factor
+#      precursor."
+#      Nature 307:558-560(1984).
+#      PubMed=6607417
+# [ 5] Appella E., Weber I.T., Blasi F.
+#      "Structure and function of epidermal growth factor-like regions in
+#      proteins."
+#      FEBS Lett. 231:1-4(1988).
+#      PubMed=3282918
+# [ 6] Campbell I.D., Bork P.
+#      Curr. Opin. Struct. Biol. 3:385-392(1993).
+# [ 7] Tamkun J.W., DeSimone D.W., Fonda D., Patel R.S., Buck C.,
+#      Horwitz A.F., Hynes R.O.
+#      "Structure of integrin, a glycoprotein involved in the transmembrane
+#      linkage between fibronectin and actin."
+#      Cell 46:271-282(1986).
+#      PubMed=3487386
+# 
+# ***************
+# 
+# Motif: THIOLASE_3
+# Count: 7
+# 
+# ************************
+# * Thiolases signatures *
+# ************************
+# 
+# Two different  types  of thiolase [1,2,3] are found  both in eukaryotes and in
+# prokaryotes: acetoacetyl-CoA thiolase (EC 2.3.1.9) and 3-ketoacyl-CoA thiolase
+# (EC 2.3.1.16).  3-ketoacyl-CoA thiolase (also called thiolase I)  has  a broad
+# chain-length specificity  for  its substrates and is involved   in degradative
+# pathways  such as  fatty acid  beta-oxidation.  Acetoacetyl-CoA thiolase (also
+# called thiolase  II)  is  specific  for  the  thiolysis of acetoacetyl-CoA and
+# involved in biosynthetic pathways such  as poly beta-hydroxybutyrate synthesis
+# or steroid biogenesis.
+# 
+# In eukaryotes, there are two forms of 3-ketoacyl-CoA thiolase: one  located in
+# the mitochondrion and the other in peroxisomes.
+# 
+# There are two conserved cysteine residues important for thiolase activity. The
+# first located  in  the  N-terminal  section  of the enzymes is involved in the
+# formation of an acyl-enzyme intermediate; the second located at the C-terminal
+# extremity is   the   active   site  base  involved  in  deprotonation  in  the
+# condensation reaction.
+# 
+# Mammalian nonspecific  lipid-transfer  protein (nsL-TP)  (also known as sterol
+# carrier protein 2) is a protein which seems  to exist  in two different forms:
+# a 14  Kd  protein  (SCP-2)  and  a larger 58 Kd protein (SCP-x). The former is
+# found in the cytoplasm or the mitochondria and is involved in lipid transport;
+# the latter is found in peroxisomes.  The C-terminal part of SCP-x is identical
+# to SCP-2  while  the  N-terminal  portion is evolutionary related to thiolases
+# [4].
+# 
+# We developed  three  signature  patterns  for  this family of proteins, two of
+# which are  based  on  the regions around the biologically important cysteines.
+# The third  is  based  on  a  highly conserved region in the C-terminal part of
+# these proteins.
+# 
+# -Consensus pattern: [LIVM]-[NST]-{T}-x-C-[SAGLI]-[ST]-[SAG]-[LIVMFYNS]-x-
+#                     [STAG]-[LIVM]-x(6)-[LIVM]
+#                     [C is involved in formation of acyl-enzyme intermediate]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: 5.
+# 
+# -Consensus pattern: N-x(2)-G(2)-x-[LIVM]-[SA]-x-G-H-P-x-[GAS]-x-[ST]-G
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Consensus pattern: [AG]-[LIVMA]-[STAGCLIVM]-[STAG]-[LIVMA]-C-{Q}-[AG]-x-[AG]-
+#                     x-[AG]-x-[SAG]
+#                     [C is the active site residue]
+# -Sequences known to belong to this class detected by the pattern: ALL,  except
+#  for nsL-TP.
+# -Other sequence(s) detected in Swiss-Prot: 8.
+# 
+# -Last update: April 2006 / Patterns revised.
+# 
+# [ 1] Peoples O.P., Sinskey A.J.
+#      "Poly-beta-hydroxybutyrate biosynthesis in Alcaligenes eutrophus H16.
+#      Characterization of the genes encoding beta-ketothiolase and
+#      acetoacetyl-CoA reductase."
+#      J. Biol. Chem. 264:15293-15297(1989).
+#      PubMed=2670935
+# [ 2] Yang S.-Y., Yang X.-Y.H., Healy-Louie G., Schulz H., Elzinga M.
+#      "Nucleotide sequence of the fadA gene. Primary structure of
+#      3-ketoacyl-coenzyme A thiolase from Escherichia coli and the
+#      structural organization of the fadAB operon."
+#      J. Biol. Chem. 265:10424-10429(1990).
+#      PubMed=2191949
+# [ 3] Igual J.C., Gonzalez-Bosch C., Dopazo J., Perez-Ortin J.E.
+#      "Phylogenetic analysis of the thiolase family. Implications for the
+#      evolutionary origin of peroxisomes."
+#      J. Mol. Evol. 35:147-155(1992).
+#      PubMed=1354266
+# [ 4] Baker M.E., Billheimer J.T., Strauss J.F. III
+#      "Similarity between the amino-terminal portion of mammalian 58-kD
+#      sterol carrier protein (SCPx) and Escherichia coli acetyl-CoA
+#      acyltransferase: evidence for a gene fusion in SCPx."
+#      DNA Cell Biol. 10:695-698(1991).
+#      PubMed=1755959
+# 
+# ***************
+# 
+# Motif: 2FE2S_FER_1
+# Count: 10
+# 
+# ***************************************************************************
+# * 2Fe-2S ferredoxin-type iron-sulfur binding domain signature and profile *
+# ***************************************************************************
+# 
+# Ferredoxins  are small, acidic, electron transfer proteins that are ubiquitous
+# in  biological  redox  systems.  They  have  either  4Fe-4S, 3Fe-4S, or 2Fe-2S
+# cluster.  Among  them,  ferredoxin  with  one  2Fe-2S cluster per molecule are
+# present  in  plants, animals, and bacteria, and form a distinct 2Fe-Ferredoxin
+# family  [1,2].  They  are proteins of around one hundred amino acids with four
+# conserved  cysteine  residues  to  which  the  2Fe-2S cluster is ligated. This
+# conserved region is also found as a domain in various metabolic enzymes.
+# 
+# Several  structures  of the 2Fe-2S ferredoxin domain have been determined (see
+# for example <PDB:4FXC>) [3]. The domain is classified as a beta-grasp which is
+# characterized  as  having  a beta-sheet comprised of four beta-strands and one
+# alpha-helix  flanking  the  sheet  [4].  The  two  Fe  atoms  are  coordinated
+# tetrahedrally by the two inorganic S atoms and four cysteinyl S atoms.
+# 
+# Some proteins that contains a 2Fe-2S ferredoxin-type domain are listed below:
+# 
+#  - Ferredoxin from photosynthetic organisms;  namely plants and algae where it
+#    is located in the chloroplast or cyanelle; and cyanobacteria.
+#  - Ferredoxin from archaebacteria of the Halobacterium genus.
+#  - Ferredoxin IV (gene pftA) and V (gene fdxD) from Rhodobacter capsulatus.
+#  - Ferredoxin in the  toluene  degradation  operon (gene xylT) and naphthalene
+#    degradation operon (gene nahT) of Pseudomonas putida.
+#  - Hypothetical Escherichia coli protein yfaE.
+# 
+#  - The N-terminal domain  of the  bifunctional ferredoxin/ferredoxin reductase
+#    electron  transfer  component of the benzoate 1,2-dioxygenase complex (gene
+#    benC) from Acinetobacter calcoaceticus, the toluene 4-monooxygenase complex
+#    (gene tmoF), the toluate 1,2-dioxygenase system (gene xylZ), and the xylene
+#    monooxygenase system (gene xylA) from Pseudomonas.
+#  - The N-terminal domain of  phenol  hydroxylase  protein  p5 (gene dmpP) from
+#    Pseudomonas Putida.
+#  - The N-terminal domain of  methane  monooxygenase   component C  (gene mmoC)
+#    from Methylococcus capsulatus .
+#  - The C-terminal domain of the vanillate degradation pathway  protein vanB in
+#    a Pseudomonas species.
+#  - The N-terminal domain of bacterial  fumarate  reductase iron-sulfur protein
+#    (gene frdB).
+#  - The  N-terminal  domain  of CDP-6-deoxy-3,4-glucoseen reductase (gene ascD)
+#    from Yersinia pseudotuberculosis.
+#  - The central domain of eukaryotic succinate dehydrogenase (ubiquinone) iron-
+#    sulfur protein.
+#  - The N-terminal domain of eukaryotic xanthine dehydrogenase.
+#  - The N-terminal domain of eukaryotic aldehyde oxidase.
+# 
+# Three  of  the  four  conserved  cysteines  are clustered together in the same
+# region  of  the  protein. Our signature pattern spans that iron-sulfur binding
+# region. We also developed a profile that covers the whole domain.
+# 
+# -Consensus pattern: C-{C}-{C}-[GA]-{C}-C-[GAST]-{CPDEKRHFYW}-C
+#                     [The 3 C's are 2Fe-2S ligands]
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note:  Ferredoxins  from the adrenodoxin subfamily are slightly divergent and
+#  are not picked up by our pattern (but they are recognized by the profile). We
+#  have  thus  developed  a  second  pattern  specific  for  this subfamily (see
+#  <PDOC00642>).
+# 
+# -Last update: March 2005 / Text revised; profile added.
+# 
+# [ 1] Meyer J.
+#      Trends Ecol. Evol. 3:222-226(1988).
+# [ 2] Harayama S., Polissi A., Rekik M.
+#      "Divergent evolution of chloroplast-type ferredoxins."
+#      FEBS Lett. 285:85-88(1991).
+#      PubMed=2065785
+# [ 3] Fukuyama K., Ueki N., Nakamura H., Tsukihara T., Matsubara H.
+#      "Tertiary structure of [2Fe-2S] ferredoxin from Spirulina platensis
+#      refined at 2.5 A resolution: structural comparisons of plant-type
+#      ferredoxins and an electrostatic potential analysis."
+#      J. Biochem. 117:1017-1023(1995).
+#      PubMed=8586613
+# [ 4] Overington J.P.
+#      Curr. Opin. Struct. Biol. 2:394-401(1992).
+# 
+# ***************
+# 
+# Motif: 4FE4S_FER_1
+# Count: 1
+# 
+# ***************************************************************************
+# * 4Fe-4S ferredoxin-type iron-sulfur binding domain signature and profile *
+# ***************************************************************************
+# 
+# Ferredoxins  [1]  are a group  of  iron-sulfur proteins which mediate electron
+# transfer in  a  wide variety  of   metabolic  reactions.   Ferredoxins  can be
+# divided into several subgroups  depending upon the physiological nature of the
+# iron-sulfur  cluster(s).   One of these  subgroups are the 4Fe-4S ferredoxins,
+# which  are  found  in   bacteria  and  which   are thus  often    referred  as
+# 'bacterial-type' ferredoxins.  The structure of these proteins [2] consists of
+# the duplication of a  domain of twenty six amino  acid residues; each of these
+# domains contains four cysteine residues that bind to a 4Fe-4S center.
+# 
+# Several  structures  of the 4Fe-4S ferredoxin domain have been determined (see
+# for  example <PDB:1FDN>) [3]. The clusters consist of two interleaved 4Fe- and
+# 4S-tetrahedra  forming  a  cubane-like  structure, in such a way that the four
+# iron  occupy the eight corners of a distorted cube. Each 4Fe-4S is attached to
+# the polypeptide chain by four covalent Fe-S bonds involving cysteine residues.
+# 
+# A number  of  proteins  have  been found [4]  that  include one or more 4Fe-4S
+# binding domains similar to those of bacterial-type ferredoxins. These proteins
+# are  listed  below:
+# 
+#  - The iron-sulfur proteins  of  the succinate  dehydrogenase and the fumarate
+#    reductase  complexes (EC 1.3.99.1).  These  enzyme   complexes,  which  are
+#    components of the tricarboxylic  acid cycle, each contain three subunits: a
+#    flavoprotein,  an iron-sulfur protein,  and a b-type cytochrome.  The iron-
+#    sulfur proteins contain three  different  iron-sulfur  centers: a 2Fe-2S, a
+#    3Fe-4S  and a 4Fe-4S.
+#  - Escherichia coli anaerobic glycerol-3-phosphate dehydrogenase (EC 1.1.99.5)
+#    This enzyme is composed of three subunits: A, B, and C. The C subunit seems
+#    to be an  iron-sulfur  protein  with  two ferredoxin-like domains in the N-
+#    terminal part of the  protein.
+#  - Escherichia coli anaerobic dimethyl sulfoxide reductase.  The  B subunit of
+#    this  enzyme  (gene dmsB)  is  an  iron-sulfur  protein  with  four  4Fe-4S
+#    ferredoxin-like domains.
+#  - Escherichia coli  formate  hydrogenlyase.  Two   of  the  subunits  of this
+#    oligomeric complex (genes hycB and hycF) seem  to  be  iron-sulfur proteins
+#    that each contain two 4Fe-4S ferredoxin-like domains.
+#  - Methanobacterium formicicum formate dehydrogenase (EC 1.2.1.2). This enzyme
+#    is used by the archaebacteria  to grow on formate.  The  beta chain of this
+#    dimeric enzyme probably binds two 4Fe-4S centers.
+#  - Escherichia  coli  formate  dehydrogenases  N  and O (EC 1.2.1.2). The beta
+#    chain  of these two enzymes (genes fdnH and fdoH) are  iron-sulfur proteins
+#    with four 4Fe-4S ferredoxin-like domains.
+#  - Desulfovibrio periplasmic [Fe] hydrogenase (EC 1.18.99.1).  The large chain
+#    of this dimeric enzyme binds three 4Fe-4S centers, two of which are located
+#    in the ferredoxin-like N-terminal region of the protein.
+#  - Methanobacterium  thermoautrophicum  methyl  viologen-reducing  hydrogenase
+#    subunit mvhB, which contains six  tandemly repeated ferredoxin-like domains
+#    and which probably binds twelve 4Fe-4S centers.
+#  - Salmonella typhimurium anaerobic sulfite reductase (EC 1.8.1.-) [5]. Two of
+#    the subunits of  this enzyme (genes asrA and asrC) seem  to  both  bind two
+#    4Fe-4S centers.
+#  - A Ferredoxin-like protein  (gene fixX)  from  the  nitrogen-fixation  genes
+#    locus of various  Rhizobium  species,  and   one  from  the  Nif-region  of
+#    Azotobacter species.
+#  - The 9 Kd  polypeptide  of chloroplast photosystem I [6]  (gene psaC).  This
+#    protein contains two low potential 4Fe-4S centers, referred as  the A and B
+#    centers.
+#  - The chloroplast frxB protein which is predicted to carry two 4Fe-4S centers.
+#  - An ferredoxin  from a  primitive  eukaryote,  the enteric amoeba  Entamobea
+#    histolytica.
+#  - Escherichia  coli  hypothetical  protein  yjjW, a protein with a N-terminal
+#    region belonging to the radical activating enzymes family (see <PDOC00834>)
+#    and two potential 4Fe-4S centers.
+# 
+# The  pattern  of  cysteine residues in the iron-sulfur region is sufficient to
+# detect  this class of 4Fe-4S binding proteins. The profile we developed covers
+# the whole domain.
+# 
+# -Consensus pattern: C-x-{P}-C-x(2)-C-{CP}-x(2)-C-[PEG]
+#                     [The 4 C's are 4Fe-4S ligands]
+# -Sequences known to belong to this class detected by the profile: ALL.
+#  of known 4Fe-4S sequences, with very few exceptions.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Note: In some  bacterial  ferredoxins,  one of the two duplicated domains has
+#  lost one or  more of  the four conserved  cysteines.  The consequence of such
+#  variations is that these domains  have  either lost their iron-sulfur binding
+#  property or bind to a 3Fe-4S center instead of a 4Fe-4S center.
+# -Note: The last residue of this  pattern in most  proteins  belonging  to this
+#  group,  is a Pro; the  only  exceptions  are  the  Rhizobium  ferredoxin-like
+#  proteins which have Gly, and two Desulfovibrio ferredoxins which have Glu. It
+#  must also be noted that  the  three  non  4Fe-4S-binding  proteins  which are
+#  picked-up by the pattern have Gly in this position of the pattern.
+# 
+# -Last update: April 2008 / Text revised; profile added.
+# 
+# [ 1] Meyer J.
+#      "The evolution of ferredoxins."
+#      Trends Ecol. Evol. 3:222-226(1988).
+# [ 2] Otaka E., Ooi T.
+#      "Examination of protein sequence homologies: IV. Twenty-seven
+#      bacterial ferredoxins."
+#      J. Mol. Evol. 26:257-267(1987).
+#      PubMed=3129571
+# [ 3] Duee E.D., Fanchon E., Vicat J., Sieker L.C., Meyer J., Moulis J.M.
+#      "Refined crystal structure of the 2[4Fe-4S] ferredoxin from
+#      Clostridium acidurici at 1.84 A resolution."
+#      J. Mol. Biol. 243:683-695(1994).
+#      PubMed=7966291
+# [ 4] Beinert H.
+#      "Recent developments in the field of iron-sulfur proteins."
+#      FASEB J. 4:2483-2491(1990).
+#      PubMed=2185975
+# [ 5] Huang C.J., Barrett E.L.
+#      "Sequence analysis and expression of the Salmonella typhimurium asr
+#      operon encoding production of hydrogen sulfide from sulfite."
+#      J. Bacteriol. 173:1544-1553(1991).
+#      PubMed=1704886
+# [ 6] Knaff D.B.
+#      "The photosystem I reaction centre."
+#      Trends Biochem. Sci. 13:460-461(1988).
+# 
+# ***************
+# 
+# Motif: TUBULIN
+# Count: 1
+# 
+# *****************************************************
+# * Tubulin subunits alpha, beta, and gamma signature *
+# *****************************************************
+# 
+# Tubulins [1,2], the major  constituent of  microtubules  are dimeric  proteins
+# which consist of two closely related subunits (alpha and  beta). Tubulin binds
+# two molecules of GTP at two different sites (N and E). At the E (Exchangeable)
+# site, GTP is  hydrolyzed during incorporation into the microtubule. Near the E
+# site is an invariant region rich in glycines which is found in both chains and
+# which is now [3]  said to control the access of the nucleotide  to its binding
+# site. We developed a signature pattern from this region.
+# 
+# With the exception of the simple eukaryotes, most species express a variety of
+# closely related alpha and beta isotypes.
+# 
+# In most species there is a third member  of the tubulin family: gamma tubulin.
+# Gamma tubulin is  found at  microtubule  organizing centers (MTOC) such as the
+# spindle poles or the centrosome, suggesting that it  is involved in the minus-
+# end nucleation of microtubule assembly [4].
+# 
+# -Consensus pattern: [SAG]-G-G-T-G-[SA]-G
+# -Sequences known to belong to this class detected by the pattern: ALL,  except
+#  for maize tubulin beta-2 which has Leu in the first position of the pattern.
+# -Other sequence(s) detected in Swiss-Prot: 13.
+# 
+# -Note: The first residue in the pattern is Gly in all alpha and beta tubulins,
+#  and is Ala or Ser in gamma-tubulin.
+# -Note: This  pattern  is  almost  identical  to  the  GTP-binding  site of the
+#  bacterial protein  ftsZ  (see  <PDOC00873>)  whose  role  in  prokaryotes  is
+#  probably similar to that of tubulins.
+# 
+# -Last update: November 1995 / Text revised.
+# 
+# [ 1] Cleveland D.W., Sullivan K.F.
+#      "Molecular biology and genetics of tubulin."
+#      Annu. Rev. Biochem. 54:331-365(1985).
+#      PubMed=3896122; DOI=10.1146/annurev.bi.54.070185.001555;
+# [ 2] Joshi H.C., Cleveland D.W.
+#      "Diversity among tubulin subunits: toward what functional end?"
+#      Cell Motil. Cytoskeleton 16:159-163(1990).
+#      PubMed=2194680
+# [ 3] Hesse J., Thierauf M., Ponstingl H.
+#      "Tubulin sequence region beta 155-174 is involved in binding
+#      exchangeable guanosine triphosphate."
+#      J. Biol. Chem. 262:15472-15475(1987).
+#      PubMed=3680207
+# [ 4] Joshi H.C.
+#      "Gamma-tubulin: the hub of cellular microtubule assemblies."
+#      BioEssays 15:637-643(1993).
+#      PubMed=8274140
+# 
+# ***************
+# 
+# Motif: DEFENSIN
+# Count: 1
+# 
+# *********************************
+# * Mammalian defensins signature *
+# *********************************
+# 
+# Defensins [1   to   5],  also  known  as  alpha-defensins,  are  a  family  of
+# structurally related  cysteine-rich peptides active against many Gram-negative
+# and Gram-positive bacteria, fungi, and enveloped  viruses.  Some defensins are
+# also called corticostatins (CS) because they inhibit  corticotropin-stimulated
+# corticosteroid production.  Defensins kills cells by forming voltage-regulated
+# multimeric channels   in   the   susceptible  cell's  membrane.  They  play  a
+# significant role in innate immunity  to  infection and neoplasia. The peptides
+# known to belong to this family are listed below.
+# 
+#  - Rabbit defensins and  corticostatins:  CS-I (NP-3A),  CS-II (NP-3B), CS-III
+#    (MCP-1), CS-IV (MCP-2), NP-4, and NP-5.
+#  - Guinea-pig neutrophil defensin (GPNP).
+#  - Human neutrophil defensins 1 to 4 and intestinal defensins 5 and 6.
+#  - Mouse small bowel cryptdins 1 to 5.
+#  - Rat NP-1 to NP-4.
+# 
+# All these peptides range in length from 29 to 35 amino acids.  There are seven
+# invariant  residues,  including   six  cysteines  all  involved  in intrachain
+# disulfide bonds.     A schematic  representation of peptides from the defensin
+# family is shown below.
+# 
+#                   +----------------------------+
+#                   |****************************|
+#                 xxCxCxxxxxCxxxxxxxGxCxxxxxxxxxCCxx
+#                     |     |         |         |
+#                     +-----|---------+         |
+#                           +-------------------+
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# '*': position of the pattern.
+# 
+# Our pattern is based on the conserved residues.
+# 
+# -Consensus pattern: C-x-C-x(3,5)-C-x(7)-G-x-C-x(9)-C-C
+#                     [The 6 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL,  except
+#  for mouse cryptdin 4.
+# -Other sequence(s) detected in Swiss-Prot: 1.
+# 
+# -Last update: May 2004 / Text revised.
+# 
+# [ 1] Lehrer R.I., Ganz T., Selsted M.E.
+#      ASM News 56:315-318(1990).
+# [ 2] Lehrer R.I., Ganz T., Selsted M.E.
+#      "Defensins: endogenous antibiotic peptides of animal cells."
+#      Cell 64:229-230(1991).
+#      PubMed=1988144
+# [ 3] Kagan B.L., Ganz T., Lehrer R.I.
+#      "Defensins: a family of antimicrobial and cytotoxic peptides."
+#      Toxicology 87:131-149(1994).
+#      PubMed=7512758
+# [ 4] Lehrer R.I., Lichtenstein A.K., Ganz T.
+#      "Defensins: antimicrobial and cytotoxic peptides of mammalian cells."
+#      Annu. Rev. Immunol. 11:105-128(1993).
+#      PubMed=8476558; DOI=10.1146/annurev.iy.11.040193.000541
+# [ 5] White S.H., Wimley W.C., Selsted M.E.
+#      "Structure, function, and membrane integration of defensins."
+#      Curr. Opin. Struct. Biol. 5:521-527(1995).
+#      PubMed=8528769
+# 
+# ***************
+# 
+# Motif: HYDROPHOBIN
+# Count: 1
+# 
+# *********************************
+# * Fungal hydrophobins signature *
+# *********************************
+# 
+# The surface  of  many  fungal  spores  is covered by a hydrophobic sheath, the
+# rodlet layer whose main component is a protein known as the rodlet protein [1,
+# 2]. The  rodlet   proteins  of  Neurospora  crassa (gene  eas)  and Emericella
+# nidulans (gene  rodA)  are  evolutionary related to proteins found in the cell
+# wall of   fruiting   bodies   of   the  mushroom  Schizophyllum  commune  [3].
+# Collectively, these    low-molecular-weight,    cysteine-rich   (8   conserved
+# cysteines), hydrophobic proteins, are known as hydrophobins.
+# 
+# As a  signature  pattern  we  selected  a conserved region that contains three
+# cysteines and which is located in the C-terminal section.
+# 
+# -Consensus pattern: [GN]-[DNQPSA]-x-C-[GSTANK]-[GSTADNQ]-[STNQI]-[PTIV]-x-C-C-
+#                     [DENQKPST]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# -Last update: November 1997 / Pattern and text revised.
+# 
+# [ 1] Stringer M.A., Dean R.A., Sewall T.C., Timberlake W.E.
+#      "Rodletless, a new Aspergillus developmental mutant induced by
+#      directed gene inactivation."
+#      Genes Dev. 5:1161-1171(1991).
+#      PubMed=2065971
+# [ 2] Lauter F.-R., Russo V.E.A., Yanofsky C.
+#      "Developmental and light regulation of eas, the structural gene for
+#      the rodlet protein of Neurospora."
+#      Genes Dev. 6:2373-2381(1992).
+#      PubMed=1459459
+# [ 3] Schuren F.H.J., Wessels J.G.
+#      "Two genes specifically expressed in fruiting dikaryons of
+#      Schizophyllum commune: homologies with a gene not regulated by
+#      mating-type genes."
+#      Gene 90:199-205(1990).
+#      PubMed=2401401
+# 
+# ***************
+# 
+# Motif: ANAPHYLATOXIN_1
+# Count: 7
+# 
+# **********************************************
+# * Anaphylatoxin domain signature and profile *
+# **********************************************
+# 
+# Anaphylatoxins [1]  are  mediators  of  local inflammatory process that act by
+# inducing smooth muscle contraction. There are three  different anaphylatoxins:
+# C3a, C4a  and  C5a. They are peptides of about 75 amino-acid residues that are
+# derived from the proteolytic degradation of complement C3, C4 and C5 and which
+# contains six  disulfide-bonded cysteines [2] (see the schematic representation
+# below).
+# 
+#                           +--------------------+
+#             +-------------|------------+       |
+#             |             |            |       |
+#          xxxCCxxxxxxxxxxxxCxxxxxxxxxxxxCxxxxxxCCxxx
+#              |                                |
+#              +--------------------------------+
+# 
+# 'C': conserved cysteine involved in a disulfide bond.
+# 
+# This cysteine-rich region shares similarity with a three times repeated domain
+# found in  the  mammalian extracellular matrix proteins fibulins 1 and 2 [3,4].
+# The three disulfide bonds are conserved in the first and last repeats, but the
+# first disulfide bond is missing in the second repeat.
+# 
+# Our consensus pattern spans the entire cysteine-rich domain.
+# 
+# -Consensus pattern: [CSH]-C-x(2)-[GAP]-x(7,8)-[GASTDEQR]-C-[GASTDEQL]-x(3,9)-
+#                     [GASTDEQN]-x(2)-[CE]-x(6,7)-C-C
+#                     [The 6 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Last update: May 2004 / Text revised.
+# 
+# [ 1] Hugli T.E.
+#      "Biochemistry and biology of anaphylatoxins."
+#      Complement 3:111-127(1986).
+#      PubMed=3542363
+# [ 2] Huber R., Scholze H., Paques E.P., Deisenhofer J.
+#      "Crystal structure analysis and molecular model of human C3a
+#      anaphylatoxin."
+#      Hoppe-Seyler's Z. Physiol. Chem. 361:1389-1399(1980).
+#      PubMed=7439885
+# [ 3] Argraves W.S., Tran H., Burgess W.H., Dickerson K.
+#      "Fibulin is an extracellular matrix and plasma glycoprotein with
+#      repeated domain structure."
+#      J. Cell Biol. 111:3155-3164(1990).
+#      PubMed=2269669
+# [ 4] Pan T.-C., Sasaki T., Zhang R.-Z., Faessler R., Timpl R., Chu M.L.
+#      "Structure and expression of fibulin-2, a novel extracellular matrix
+#      protein with multiple EGF-like repeats and consensus motifs for
+#      calcium binding."
+#      J. Cell Biol. 123:1269-1277(1993).
+#      PubMed=8245130
+# 
+# ***************
+# 
+# Motif: VWFC_1
+# Count: 9
+# 
+# *************************************
+# * VWFC domain signature and profile *
+# *************************************
+# 
+# The VWFC  domain  is named after the von Willebrand factor (VWF) type C repeat
+# which is  found  twice  in  this multidomain protein [1,2]. It has a length of
+# about 70  amino acids covering 10 well conserved cysteines. Proteins with such
+# a domain [1-4] are listed below.
+# 
+#  - Human  von Willebrand factor  (VWF),  a multifunctional protein involved in
+#    maintaining homeostasis.  It consists of 4 VWFD domains,  3 VWFA domains, 3
+#    VWFB domains, 3 VWFC domains, an X domain and a C-terminal cystine knot [2].
+#  - Silk  moth hemocytin, an humoral lectin which is involved in a self-defence
+#    mechanism. It  is  composed  of 2 FA58C domains (see <PDOC00988>), a C-type
+#    lectin domain   (see   <PDOC00537>),  2  VWFC  domains,  and  a  CTCK  (see
+#    <PDOC00912>).
+#  - Several  vertebrate heavily glycosylated  mucins. Human mucin 2 is secreted
+#    by the  epithelia  of  different  mucus membrane-containing organs. It is a
+#    highly polymorphic  multidomain molecule. Rat intestinal mucin-like peptide
+#    coats the  epithelia  of  the  intestines.  Both  proteins  share a modular
+#    architecture similar  to  VWF. Xenopus mucin B.1 contains a Sushi domain, a
+#    VWFC domain,  a  X  domain and a C-terminal cystine knot. Other mucins that
+#    contain the  VWFC  domain  are  human tracheobronchial mucin (MUC5), bovine
+#    submaxillary mucin-like protein, human and pig apomucin.
+#  - Cef-10/cyr61/CTGF/fisp-12/nov  protein  family.  The members of this family
+#    are structurally  related  to   insulin-like growth factor binding proteins
+#    (see <PDOC00194>) and could  function  as  growth  factor-binding proteins.
+#    They contain an insulin-like growth factor-binding domain, a VWFC repeat, a
+#    thrombospondin type 1 repeat (Tsp1) and a C-terminal cystine knot.
+#  - Vertebrate  thrombospondins  1  and 2. These adhesive glycoproteins mediate
+#    cell-to-cell and cell-to-matrix interactions. They are composed of a common
+#    thrombospondin N-terminal  domain  (TspN),  a VWFC domain, three Tsp type 1
+#    repeats (Tsp1), 3 to 4 EGF-like domains and 7 calcium-binding Tsp3 repeats.
+#  - Vertebrate propeptides of fibrillar collagens alpha 1(I, II & III) and 2(V)
+#    chains that  contain  an  N-terminal  VWFC  domain, a collagenous region of
+#    about 1000  amino  acids  and  a  C-terminus  common to fibrillar collagens
+#    (COLFI domain).
+#  - Vertebrate  integral  membrane  protein  DGCR2/IDD,  a  potential  adhesion
+#    receptor with  1  LDL-receptor  class  A domain (see <PDOC00929>), a C-type
+#    lectin and a VWFC domain.
+#  - Chordin, a Xenopus developmental protein that contains four VWFC domains.
+# 
+# Of these proteins, the best characterized one is the von Willebrand factor for
+# which the duplicated VWFC domain is thought to participate in oligomerization,
+# but not in  the initial dimerization step [4].  The presence of this region in
+# other  complex-forming  proteins leads to the assumption  that the VWFC domain
+# might be involved in forming larger protein complexes [1,2].
+# 
+# The profile we developed covers the entire VWFC domain.
+# 
+# -Consensus pattern: C-x(2,3)-C-{CG}-C-x(6,14)-C-x(3,4)-C-x(2,10)-C-x(9,16)-
+#                     C-C-x(2,4)-C
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: 7.
+# 
+# -Sequences known to belong to this class detected by the profile: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Expert(s) to contact by email:
+#            Bork P.; bork@embl-heidelberg.de
+# 
+# -Last update: December 2004 / Pattern and text revised.
+# 
+# [ 1] Hunt L.T., Barker W.C.
+#      "von Willebrand factor shares a distinctive cysteine-rich domain with
+#      thrombospondin and procollagen."
+#      Biochem. Biophys. Res. Commun. 144:876-882(1987).
+#      PubMed=3495268
+# [ 2] Bork P.
+#      "The modular architecture of a new family of growth regulators related
+#      to connective tissue growth factor."
+#      FEBS Lett. 327:125-130(1993).
+#      PubMed=7687569
+# [ 3] Bork P.
+#      "Shuffled domains in extracellular proteins."
+#      FEBS Lett. 286:47-54(1991).
+#      PubMed=1864378
+# [ 4] Voorberg J., Fontijn R., Calafat J., Janssen H., van Mourik J.A.,
+#      Pannekoek H.
+#      "Assembly and routing of von Willebrand factor variants: the
+#      requirements for disulfide-linked dimerization reside within the
+#      carboxy-terminal 151 amino acids."
+#      J. Cell Biol. 113:195-205(1991).
+#      PubMed=2007623
+# 
+# ***************
+# 
+# Motif: J_ACTX
+# Count: 1
+# 
+# *****************************************************
+# * Janus-faced atracotoxin (J-ACTX) family signature *
+# *****************************************************
+# 
+# Janus-faced atracotoxins  (J-ACTXs)  form a family of insecticidal neurotoxins
+# isolated from  the venom of one of the world's most lethal arachnids, the Blue
+# mountains funnel-web  spider Hadronyche versuta. J-ACTXs are 36 or 37 residues
+# in length  with  eight  conserved cysteine residues involved in four disulfide
+# bonds, including  an extemely rare vicinal disulfide (a disulfide bond between
+# adjacent cysteine   residues)   that  has  been  shown  to  be  essential  for
+# insecticidal activity.  J-ACTXs  possess  two strikingly dissimilar faces. One
+# face presents  an  almost  contiguous charged surface, while the opposing face
+# containing the vicinal disulfide is devoid of ionizable side chains [1].
+# 
+# J-ACTX family  proteins  have a [C-C-CC-CC-C-C] cysteine arrangement, which is
+# similar to  that  of the I-superfamily conotoxins (see <PDOC60004>). The three
+# dimensional structure   of   J-ACTXs   possesses   a   knottin  scaffold  (see
+# <PDOC60004>) [E1]  and  III-IV  pair  of  cysteine  residues (as marked '#' in
+# schematic representation)  involved  in  a  additional  disulfide linkage. The
+# cysteine knot  motif  in  J-ACTXs  provides  high  stability and maintains the
+# tertiary structure.
+# 
+#                                     +----------------+
+#                                  ## |                |
+#                        CxxxxxxCxxCCxCCxxxxCxxxxxxxxxxC
+#                        |      |      |    |
+#                        +------|------+    |
+#                               +-----------+
+# 
+# 'C': conserved cysteine involved in disulfide bond.
+# '#': Cysteines  three and four are connected to each other through a disulfide
+#      bond.
+# 
+# Our signature  pattern  for  J-ACTXs  contains  the  eight conserved cysteines
+# involved in disulfide bonds.
+# 
+# -Conserved pattern: C-{C}(6)-C-x(2)-C-C-x-C-C-x(4)-C-x(9,10)-C
+#                     [The 8 C's are involved in disulfide bonds]
+# -Sequences known to belong to this class detected by the pattern: ALL.
+# -Other sequence(s) detected in Swiss-Prot: NONE.
+# 
+# -Expert(s) to contact by email:
+#            Ramakumar S.; ramak@physics.iisc.ernet.in
+# 
+# -Last update: July 2005 / First entry.
+# 
+# [ 1] Wang X., Connor M., Smith R., Maciejewski M.W., Howden M.E.H.,
+#      Nicholson G.M., Christie M.J., King G.F.
+#      "Discovery and characterization of a family of insecticidal
+#      neurotoxins with a rare vicinal disulfide bridge."
+#      Nat. Struct. Biol. 7:505-513(2000).
+#      PubMed=10881200; DOI=10.1038/75921
+# [E1] http://knottin.cbs.cnrs.fr
+# 
+# ***************
+# 
+#
+#---------------------------------------
