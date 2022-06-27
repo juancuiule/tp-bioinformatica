@@ -10,11 +10,9 @@
 ## Enunciado:
 
 [TP Bioinformatica-2022 - Parte 1.pdf](./TP%20Bioinformatica-2022%20-%20Parte%201.pdf)
-
+[TP Bioinformatica-2022 - Parte 2.pdf](./TP%20Bioinformatica-2022%20-%20Parte%202.pdf)
 
 ## Desarrollo
-
-Desarrollo de la primera parte del trabajo práctico de Bioinformática 1C2022.
 
 ### Gen elegido (PSEN1)
 
