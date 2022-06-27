@@ -5,6 +5,7 @@ my $factory = Bio::Tools::Run::Alignment::Clustalw->new(@config);
 
 @seq_array =();
 
+push_sequence("./msa-in/ANN47477.1.fasta");
 push_sequence("./msa-in/P49769.1.fasta");
 push_sequence("./msa-in/P79802.1.fasta");
 push_sequence("./msa-in/P97887.1.fasta");
