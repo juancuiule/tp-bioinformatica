@@ -52,3 +52,20 @@ Viendo resultado del BLAST para el orf 3 (`psen1-orfs-3-blast.bls`) y tomando 5 
 Se ejectuta corriendo:
 
 `perl ex3.pm`
+
+### Ejercicio 4 - Blast output
+
+Toma el archivo salida del ejercicio 2 y recibe un patrón con el cual va a buscar hits.
+
+Por ejemplo:
+
+`perl ex4.pm ./out-blast/psen1-orfs-3-blast.bls "Macaco"`
+
+Esto genera una carpeta dentro de `out-4` con el patron que contiene las secuencias fasta de los hits.
+
+### Ejercicio 5 - EMBOSS
+
+Usa los programas `getorf` y `patmatmotifs` de EMBOSS para encontrar los orfs y hacer un análisis de dominio.
+
+ej:
+`perl ex5.pm "./sequence-psen1.fasta"`
