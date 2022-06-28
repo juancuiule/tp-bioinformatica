@@ -6,11 +6,11 @@ my $factory = Bio::Tools::Run::Alignment::Clustalw->new(@config);
 @seq_array =();
 
 push_sequence("./msa-in/P49768.1.fasta");
-push_sequence("./msa-in/P49769.1.fasta");
+push_sequence("./msa-in/Q5R780.1.fasta");
+push_sequence("./msa-in/Q8HXW5.1.fasta");
 push_sequence("./msa-in/P79802.1.fasta");
 push_sequence("./msa-in/P97887.1.fasta");
 push_sequence("./msa-in/Q6RH31.2.fasta");
-push_sequence("./msa-in/Q8HXW5.1.fasta");
 
 sub push_sequence {
   my ($sequence_file) = @_;

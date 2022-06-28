@@ -37,7 +37,7 @@ Según ensembl hay 203 secuencias ortólogas que aparecen principalmente en prim
 
 > ¿Cuántos transcriptos y cuántas formas alternativas de splicing son conocidos para este gen / proteína? ¿Cuáles de estos splicing alternativos se expresan? ¿Tienen funciones alternativas? Buscar evidencia de esto en las base de datos de NCBI y en los transcriptos de Ensembl ¿Cómo el número de splicings alternativos diferente entre las dos bases de datos y cuál piensan que es más precisa y por qué?
 
-Respuesta
+Hay 25 transcriptos para el gen PSEN1 en la base de datos de Ensembl. En NCBI hay 10 transcripciones de dos isoformas: isoforma I-467 e I-463. La segunda tiene 4 aa menos que la primera.
 
 ### Punto D
 

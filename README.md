@@ -49,7 +49,7 @@ Viendo resultado del BLAST para el orf 3 (`psen1-orfs-3-blast.bls`) y tomando 5 
 
 Se ejectuta corriendo:
 
-`perl ex3.pm`
+`CLUSTALDIR=clustalw-2.1-linux-x86_64-libcppstatic/ perl ex3.pm`
 
 ### Ejercicio 4 - Blast output
 
