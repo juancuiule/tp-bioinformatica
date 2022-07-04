@@ -2,7 +2,6 @@
 
 ## Integrantes
 
-* Agustina Nahas (149.702-9)
 * Juan Ignacio Cuiule (158.938-6)
 
 ---
@@ -13,6 +12,10 @@
 [TP Bioinformatica-2022 - Parte 2.pdf](./TP%20Bioinformatica-2022%20-%20Parte%202.pdf)
 
 ## Desarrollo
+
+### Presentación
+
+https://docs.google.com/presentation/d/1rHfSRjqKz68WxvFr3K9HbNxX38KJchhl-wVjD2zE-Jo/
 
 ### Gen elegido (PSEN1)
 
